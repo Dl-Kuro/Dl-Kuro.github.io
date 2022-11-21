@@ -1,0 +1,66 @@
+{
+    "classe1" : {
+        "nom" : "1",
+        "arme" : {
+            "nom" : "couteau",
+            "degat" : 30,
+            "tps" : 10,
+            "distance" : 5,
+            "cheminModel" : "",
+            "description" : "Un couteau tout ce qu'il y a de plus banale."
+        },
+        "boost" : {
+            "nom" : "portee",
+            "valeur" : 5,
+            "description" : "Augmente votre portée de 5."
+        }
+    },
+    "classe2" : {
+        "nom" : "2",
+        "arme" : {
+            "nom" : "lance",
+            "degat" : 70,
+            "tps" : 1,
+            "distance" : 15,
+            "cheminModel" : "",
+            "description" : "Une lance médiévale. Difficile à magner mais très létale."
+        },
+        "boost" : {
+            "nom" : "degats",
+            "valeur" : 30,
+            "description" : "Augmente vos dégât de 30%"
+        }
+    },
+    "classe3" : {
+        "nom" : "3",
+        "arme" : {
+            "nom" : "shuriken",
+            "degat" : 2,
+            "tps" : 16,
+            "distance" : 8,
+            "cheminModel" : "",
+            "description" : "Un shuriken, peu létal mais très efficace, enfin, si vous savez les manier !"
+        },
+        "boost" : {
+            "nom" : "soin nexus",
+            "valeur" : 50,
+            "description" : "Soigne votre nexus de 50%"
+        }
+    },
+    "classe4" : {
+        "nom" : "4",
+        "arme" : {
+            "nom" : "brosse à chiote",
+            "degat" : 100,
+            "tps" : 0.5,
+            "distance" : 2,
+            "cheminModel" : "",
+            "description" : "Toujours utile en cas de dérapage..."
+        },
+        "boost" : {
+            "nom" : "tps",
+            "valeur" : 1,
+            "description" : "Augmente votre nombre de tirs par seconde de 1."
+        }
+    }
+}
