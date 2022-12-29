@@ -1,6 +1,6 @@
 {
-    "classe1" : {
-        "nom" : "1",
+    "1" : {
+        "nom" : "voleur",
         "arme" : {
             "nom" : "couteau",
             "degat" : 30,
@@ -15,8 +15,8 @@
             "description" : "Augmente votre portée de 5."
         }
     },
-    "classe2" : {
-        "nom" : "2",
+    "2" : {
+        "nom" : "lancier",
         "arme" : {
             "nom" : "lance",
             "degat" : 70,
@@ -31,8 +31,8 @@
             "description" : "Augmente vos dégât de 30%"
         }
     },
-    "classe3" : {
-        "nom" : "3",
+    "3" : {
+        "nom" : "ninja",
         "arme" : {
             "nom" : "shuriken",
             "degat" : 2,
@@ -47,8 +47,8 @@
             "description" : "Soigne votre nexus de 50%"
         }
     },
-    "classe4" : {
-        "nom" : "4",
+    "4" : {
+        "nom" : "THE Krâfter",
         "arme" : {
             "nom" : "brosse à chiote",
             "degat" : 100,
